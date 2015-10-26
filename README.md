@@ -19,7 +19,8 @@ Working with teammate Vivian Ma.(Credit to Vivian)
 6. Area light sources
 7. Glossy reflections   
 	
-	The generated image with primitives added.
+	The generated image with primitives added.   
+	
 	![The generated image with primitives added](./images/Add_primitives.bmp)  
 	The generated image with soft shadow added.This is also the final image   
 	
