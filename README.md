@@ -1,10 +1,14 @@
 # raytracing
+
+##Project Introduction
+
 Implementation of  a ray tracer with shadows with mirror reflection and some advanced rendering effects.
 
+##Acknowledgement
 Working with teammate Vivian Ma.(Credit to Vivian)  
 (Starter code from HKU course Computer Graphics.)  
 
-###Advanced rendering effects:
+##Advanced rendering effects:
 
 1. Flattening scene graph  
 
